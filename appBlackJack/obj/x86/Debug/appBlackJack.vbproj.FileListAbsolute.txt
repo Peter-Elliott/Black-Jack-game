@@ -1,0 +1,56 @@
+C:\Users\Peter\AppData\Local\Temporary Projects\appBlackJack\bin\Debug\appBlackJack.exe
+C:\Users\Peter\AppData\Local\Temporary Projects\appBlackJack\bin\Debug\appBlackJack.pdb
+C:\Users\Peter\AppData\Local\Temporary Projects\appBlackJack\bin\Debug\appBlackJack.xml
+C:\Users\Peter\AppData\Local\Temporary Projects\appBlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\AppData\Local\Temporary Projects\appBlackJack\obj\x86\Debug\appBlackJack.frmMain.resources
+C:\Users\Peter\AppData\Local\Temporary Projects\appBlackJack\obj\x86\Debug\appBlackJack.Resources.resources
+C:\Users\Peter\AppData\Local\Temporary Projects\appBlackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Peter\AppData\Local\Temporary Projects\appBlackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Peter\AppData\Local\Temporary Projects\appBlackJack\obj\x86\Debug\appBlackJack.exe
+C:\Users\Peter\AppData\Local\Temporary Projects\appBlackJack\obj\x86\Debug\appBlackJack.xml
+C:\Users\Peter\AppData\Local\Temporary Projects\appBlackJack\obj\x86\Debug\appBlackJack.pdb
+C:\Users\Peter\documents\visual studio 2010\Projects\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.exe
+C:\Users\Peter\documents\visual studio 2010\Projects\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.xml
+C:\Users\Peter\documents\visual studio 2010\Projects\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.pdb
+C:\Users\Peter\documents\visual studio 2010\Projects\appBlackJack\appBlackJack\bin\Debug\appBlackJack.exe
+C:\Users\Peter\documents\visual studio 2010\Projects\appBlackJack\appBlackJack\bin\Debug\appBlackJack.pdb
+C:\Users\Peter\documents\visual studio 2010\Projects\appBlackJack\appBlackJack\bin\Debug\appBlackJack.xml
+C:\Users\Peter\documents\visual studio 2010\Projects\appBlackJack\appBlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\documents\visual studio 2010\Projects\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.frmMain.resources
+C:\Users\Peter\documents\visual studio 2010\Projects\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.Resources.resources
+C:\Users\Peter\documents\visual studio 2010\Projects\appBlackJack\appBlackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Peter\documents\visual studio 2010\Projects\appBlackJack\appBlackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Peter\Desktop\Projects\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.exe
+C:\Users\Peter\Desktop\Projects\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.xml
+C:\Users\Peter\Desktop\Projects\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.pdb
+E:\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.exe
+E:\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.xml
+E:\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.pdb
+E:\appBlackJack\appBlackJack\bin\Debug\appBlackJack.exe
+E:\appBlackJack\appBlackJack\bin\Debug\appBlackJack.pdb
+E:\appBlackJack\appBlackJack\bin\Debug\appBlackJack.xml
+E:\appBlackJack\appBlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.frmMain.resources
+E:\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.Resources.resources
+E:\appBlackJack\appBlackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\appBlackJack\appBlackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Peter\Desktop\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.exe
+C:\Users\Peter\Desktop\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.xml
+C:\Users\Peter\Desktop\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.pdb
+C:\Users\Peter\Desktop\appBlackJack\appBlackJack\bin\Debug\appBlackJack.exe
+C:\Users\Peter\Desktop\appBlackJack\appBlackJack\bin\Debug\appBlackJack.pdb
+C:\Users\Peter\Desktop\appBlackJack\appBlackJack\bin\Debug\appBlackJack.xml
+C:\Users\Peter\Desktop\appBlackJack\appBlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.frmMain.resources
+C:\Users\Peter\Desktop\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.Resources.resources
+C:\Users\Peter\Desktop\appBlackJack\appBlackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Peter\Desktop\appBlackJack\appBlackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Peter\Desktop\Files & Folders\DCFE\year 1\Software Development\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.exe
+C:\Users\Peter\Desktop\Files & Folders\DCFE\year 1\Software Development\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.xml
+C:\Users\Peter\Desktop\Files & Folders\DCFE\year 1\Software Development\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.pdb
+C:\Users\Peter\Desktop\Files & Folders\DCFE\year 1\Software Development\appBlackJack\appBlackJack\bin\Debug\appBlackJack.exe
+C:\Users\Peter\Desktop\Files & Folders\DCFE\year 1\Software Development\appBlackJack\appBlackJack\bin\Debug\appBlackJack.pdb
+C:\Users\Peter\Desktop\Files & Folders\DCFE\year 1\Software Development\appBlackJack\appBlackJack\bin\Debug\appBlackJack.xml
+C:\Users\Peter\Desktop\Files & Folders\DCFE\year 1\Software Development\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.frmMain.resources
+C:\Users\Peter\Desktop\Files & Folders\DCFE\year 1\Software Development\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.Resources.resources
+C:\Users\Peter\Desktop\Files & Folders\DCFE\year 1\Software Development\appBlackJack\appBlackJack\obj\x86\Debug\appBlackJack.vbproj.GenerateResource.Cache
